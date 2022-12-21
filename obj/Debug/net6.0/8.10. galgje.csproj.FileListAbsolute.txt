@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\8.10. galgje\bin\Debug\net6.0\8.10. galgje.exe
+D:\multimedi\Cscherp\8.10. galgje\bin\Debug\net6.0\8.10. galgje.deps.json
+D:\multimedi\Cscherp\8.10. galgje\bin\Debug\net6.0\8.10. galgje.runtimeconfig.json
+D:\multimedi\Cscherp\8.10. galgje\bin\Debug\net6.0\8.10. galgje.dll
+D:\multimedi\Cscherp\8.10. galgje\bin\Debug\net6.0\8.10. galgje.pdb
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.AssemblyInfo.cs
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.dll
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\refint\8.10. galgje.dll
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.pdb
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\8.10. galgje.genruntimeconfig.cache
+D:\multimedi\Cscherp\8.10. galgje\obj\Debug\net6.0\ref\8.10. galgje.dll
